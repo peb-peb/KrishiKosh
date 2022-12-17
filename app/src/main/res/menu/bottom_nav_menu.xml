@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/suchna"
+        android:icon="@drawable/suchna_img_foreground"
+        android:title="Suchna" />
+
+    <item
+        android:id="@+id/gyan"
+        android:icon="@drawable/gyan_img_foreground"
+        android:title="Gyan" />
+
+    <item
+        android:id="@+id/sahayata"
+        android:icon="@drawable/sahayta_img_foreground"
+        android:title="Sahayta" />
+
+</menu>

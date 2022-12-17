@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493970908940",
+    "project_id": "krishi-f2607",
+    "storage_bucket": "krishi-f2607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493970908940:android:cb18c3b6924a8a481b8b29",
+        "android_client_info": {
+          "package_name": "com.example.krishi_kosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493970908940-67qdbete9polu84aibtg175bakak9kc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhC2LUnOXR0D_NPy_0VX75r4IJCI6gQ2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493970908940-67qdbete9polu84aibtg175bakak9kc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
